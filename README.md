@@ -11,8 +11,24 @@
 
 ## 2、Transform Domain Methods
 
+### (1) Sparse Representation (SR)
+
+### (2) Multi-Scale Methods
+
+### (3) Gradient Domain-Based Methods
+
 ## 3、Spatial Domain Methods
+
+### (1) Pixel-Based
+
+### (2) Block-Based
+
+### (3) Region-Based
 
 ## 4、Methods Combining Transform Domain and Spatial Domain
 
 ## 5、Deep Learning Methods
+
+### (1) Supervised
+
+### (2) Unsupervised
