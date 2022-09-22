@@ -31,6 +31,20 @@
 
 ## 3、Spatial Domain Methods
 
+1 High quality multi-focus image fusion using self-similarity and depth information (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S003040181400947X)] [[Code](https://csrc.xmu.edu.cn/index.html)]
+
+2 Quadtree-based multi-focus image fusion using a weighted focus-measure (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514000669)] [[Code](https://github.com/uzeful/Quadtree-Based-Multi-focus-Image-Fusion)]
+
+3 A general framework for image fusion based on multi-scale transform and sparse representation (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514001043)] [[Code](https://github.com/yuliu316316/DSIFT-MFIF)]
+
+4 Multi-focus image fusion using dictionary-based sparse representation (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514001213)] [[Code](https://www.researchgate.net/publication/324132140_Demo_Code_for_Sparse_Representation-based_Multi-Focus_Image_Fusion_Algorithm)]
+
+5 Guided ﬁlter-based multi-focus image fusion through focus region detection (2019) [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596518302832)] [[Code](https://github.com/bitname/Multi-focus-image-fusion-GFDF)]
+
+6 Multi-focus image fusion using boosted random walks-based algorithm with two-scale focus maps (2019) [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231219300748)] [[Code](https://github.com/JinleiMa/Twoscale-Fusion)]
+
+7 Multimodal image seamless fusion (2019) [[Paper](https://scholar.google.com/scholar_lookup?title=Multimodal%20image%20seamless%20fusion&author=K.%20Zhan&publication_year=2019)] [[Code](https://github.com/kunzhan/misf)] [Not downloaded]
+
 ## 4、Methods Combining Transform Domain and Spatial Domain
 
 ## 5、Deep Learning Methods
