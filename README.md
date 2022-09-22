@@ -51,6 +51,34 @@
 
 ## 5、Deep Learning Methods
 
+### CNN
+
 1 Multi-focus image fusion with a deep convolutional neural network (2017) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253516302081)] [[Code](https://github.com/yuliu316316/CNN-Fusion)]
 
 2 Multi-scale visual attention deep convolutional neural network for multi-focus image fusion (2019) [[Paper](https://ieeexplore.ieee.org/document/8795477/)] [[Code](https://github.com/jtguan/MADCNN/)]
+
+3 IFCNN: A general image fusion framework based on convolutional neural network (2020) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253518305505?casa_token=aECX-sSMXqUAAAAA:xdsAZ2lJjOrUmIWTEvDO1mdCzsA9eaDxgkxiL1r4RiX_DP21TVxAiy2jkMOsFXyzVQZ4gp3NEAPj)] [[Code](https://github.com/uzeful/IFCNN)]
+
+4 Ensemble of CNN for multi-focus image fusion (2019) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253518306043?casa_token=p1rP_1bKz_YAAAAA:X75eWD_lFNZeNxpzXASehge1d0sptXBvDH-R9aAURPSF-AKRyUYIWtiyvf4m5j1UlF895TRlvFXm)] [[Code](https://github.com/mostafaaminnaji/ECNN)]
+
+5 Multilevel features convolutional neural network for multifocus image fusion (2019) [[Paper](https://ieeexplore.ieee.org/abstract/document/8599008)] [No Code]
+
+6 DRPL: Deep Regression Pair Learning for Multi-Focus Image Fusion (2020) [[Paper](https://ieeexplore.ieee.org/document/9020016)] [[Code](https://github.com/sasky1/DPRL)]
+
+7 An α-Matte Boundary Defocus Model-Based Cascaded Network for Multi-Focus Image Fusion (2020) [[Paper](https://ieeexplore.ieee.org/document/9178463)] [[Code](https://github.com/xytmhy/MMF-Net-Multi-Focus-Image-Fusion)]
+
+8 Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via an Optimization Based Strategy (2020) [[Paper](https://ieeexplore.ieee.org/document/9269377)] [[Code](https://github.com/shuangxu96/MFF-SSIM)]
+
+9 Structural Similarity Loss for Learning to Fuse Multi-Focus Images (2020) [[Paper](https://www.mdpi.com/1424-8220/20/22/6647)] [No Code]
+
+10 Global-Feature Encoding U-Net (GEU-Net) for Multi-Focus Image Fusion (2021) [[Paper](https://ieeexplore.ieee.org/document/9242278)] [[Code](https://github.com/xudif/GEU-Net)] [Not downloaded]
+
+11 DTMNet: A Discrete Tchebichef Moments-Based Deep Neural Network for Multi-Focus Image Fusion (ICCV2021) [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Xiao_DTMNet_A_Discrete_Tchebichef_Moments-Based_Deep_Neural_Network_for_Multi-Focus_ICCV_2021_paper.html)] [No Code]
+
+12 SMFuse: Multi-Focus Image Fusion Via Self-Supervised Mask-Optimization (2021) [[Paper](https://ieeexplore.ieee.org/document/9369892)] [[Code](https://github.com/jiayi-ma/SMFuse)]
+
+13 Depth-Distilled Multi-focus Image Fusion (2021) [[Paper](https://ieeexplore.ieee.org/document/9647937)] [[Code](https://blog.csdn.net/fovever_/article/details/124478088)] [Not download]
+
+14 SESF-Fuse: an unsupervised deep model for multi-focus image fusion (2021) [[Paper](https://link.springer.com/article/10.1007/s00521-020-05358-9)] [[Code](https://github.com/Keep-Passion/SESF-Fuse)]
+
+### GAN
