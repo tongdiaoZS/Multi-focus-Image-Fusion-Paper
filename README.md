@@ -17,6 +17,12 @@
 
 3 Image fusion using nonsubsampled contourlet transform (2007) [[Paper](https://ieeexplore.ieee.org/document/4297175/)] [[Code](https://ieeexplore.ieee.org/document/4297175/)]
 
+4 Image fusion with guided ﬁltering (2013) [[Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-84878331557&origin=inward)] [[Code](http://xudongkang.weebly.com/index.html)] [Not downloaded]
+
+5 Multifocus image fusion and restoration with sparse representation (2010) [[Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-77949422825&origin=inward)] [[Code](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)] [Not downloaded]
+
+6 
+
 ### (1) Sparse Representation (SR)
 
 ### (2) Multi-Scale Methods
