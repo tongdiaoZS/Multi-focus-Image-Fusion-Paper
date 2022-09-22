@@ -50,3 +50,7 @@
 1 A general framework for image fusion based on multi-scale transform and sparse representation (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514001043)] [[Code](https://github.com/yuliu316316/DSIFT-MFIF)]
 
 ## 5、Deep Learning Methods
+
+1 Multi-focus image fusion with a deep convolutional neural network (2017) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253516302081)] [[Code](https://github.com/yuliu316316/CNN-Fusion)]
+
+2 Multi-scale visual attention deep convolutional neural network for multi-focus image fusion (2019) [[Paper](https://ieeexplore.ieee.org/document/8795477/)] [[Code](https://github.com/jtguan/MADCNN/)]
