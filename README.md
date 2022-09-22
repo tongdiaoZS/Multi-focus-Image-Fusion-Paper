@@ -23,6 +23,12 @@
 
 6 Simultaneous image fusion and denosing with adaptive sparse representation (2015) [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2014.0311)] [[Code](https://github.com/yuliu316316/ASR-Fusion)]
 
+7 Multi-scale weighted gradient-based fusion for multi-focus images (2014) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253513001462)] [[Code](https://github.com/bitzhouzq/MWGF-Fusion)]
+
+8 Pixel-based and region-based image fusion schemes using ica bases (2007) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253505000801)] [[Code](http://utopia.duth.gr/nmitiano/download.html)]
+
+9 A general framework for image fusion based on multi-scale transform and sparse representation (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514001043)] [[Code](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)]
+
 ## 3、Spatial Domain Methods
 
 ## 4、Methods Combining Transform Domain and Spatial Domain
