@@ -82,3 +82,11 @@
 14 SESF-Fuse: an unsupervised deep model for multi-focus image fusion (2021) [[Paper](https://link.springer.com/article/10.1007/s00521-020-05358-9)] [[Code](https://github.com/Keep-Passion/SESF-Fuse)]
 
 ### GAN
+
+1 FuseGAN: Learning to fuse multi-focus image via conditional generative adversarial network (2019) [[Paper](https://ieeexplore.ieee.org/abstract/document/8625482)] [No Code]
+
+2 A generative adversarial network with adaptive constraints for multi-focus image fusion (2020) [[Paper](https://link.springer.com/article/10.1007/s00521-020-04863-1)] [[Code](https://github.com/LeBoyal/NCAA_code)]
+
+3 MFF-GAN: An unsupervised generative adversarial network with adaptive and gradient joint constraints for multi-focus image fusion (2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520303572?casa_token=GA0lIhkd-_IAAAAA:xjU-avtOOmTraORf7bZZ5sNwcWgccV_EFA6bFjpA05PyFwxQZq2Giil2aJN_l0FYa0JghBiBlufg)] [[Code](https://github.com/HaoZhang1018/MFF-GAN)]
+
+4 MFIF-GAN: A new generative adversarial network for multi-focus image fusion (2021) [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596521001260?casa_token=FouAKgZYaXcAAAAA:zj3zevZjxqVSXpMwFcDoYPBXtrnAorpm5SkdXeDK8A93ob4QZkZeDpJgeRZtiS30Yj7Id1-c3gfS)] [[Code](https://github.com/ycwang-libra/MFIF-GAN)]
