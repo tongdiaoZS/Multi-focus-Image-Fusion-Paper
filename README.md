@@ -47,4 +47,6 @@
 
 ## 4、Methods Combining Transform Domain and Spatial Domain
 
+1 A general framework for image fusion based on multi-scale transform and sparse representation (2015) [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253514001043)] [[Code](https://github.com/yuliu316316/DSIFT-MFIF)]
+
 ## 5、Deep Learning Methods
