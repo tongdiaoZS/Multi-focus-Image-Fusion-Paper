@@ -21,26 +21,10 @@
 
 5 Multifocus image fusion and restoration with sparse representation (2010) [[Paper](https://www.scopus.com/record/display.uri?eid=2-s2.0-77949422825&origin=inward)] [[Code](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)] [Not downloaded]
 
-6 
-
-### (1) Sparse Representation (SR)
-
-### (2) Multi-Scale Methods
-
-### (3) Gradient Domain-Based Methods
+6 Simultaneous image fusion and denosing with adaptive sparse representation (2015) [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2014.0311)] [[Code](https://github.com/yuliu316316/ASR-Fusion)]
 
 ## 3、Spatial Domain Methods
-
-### (1) Pixel-Based
-
-### (2) Block-Based
-
-### (3) Region-Based
 
 ## 4、Methods Combining Transform Domain and Spatial Domain
 
 ## 5、Deep Learning Methods
-
-### (1) Supervised
-
-### (2) Unsupervised
