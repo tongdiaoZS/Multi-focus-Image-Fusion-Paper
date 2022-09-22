@@ -77,7 +77,7 @@
 
 12 SMFuse: Multi-Focus Image Fusion Via Self-Supervised Mask-Optimization (2021) [[Paper](https://ieeexplore.ieee.org/document/9369892)] [[Code](https://github.com/jiayi-ma/SMFuse)]
 
-13 Depth-Distilled Multi-focus Image Fusion (2021) [[Paper](https://ieeexplore.ieee.org/document/9647937)] [[Code](https://blog.csdn.net/fovever_/article/details/124478088)] [Not download]
+13 Depth-Distilled Multi-focus Image Fusion (2021) [[Paper](https://ieeexplore.ieee.org/document/9647937)] [[Code](https://blog.csdn.net/fovever_/article/details/124478088)]
 
 14 SESF-Fuse: an unsupervised deep model for multi-focus image fusion (2021) [[Paper](https://link.springer.com/article/10.1007/s00521-020-05358-9)] [[Code](https://github.com/Keep-Passion/SESF-Fuse)]
 
